@@ -1,4 +1,9 @@
-# AI: A History of Ideas and Failure
+---
+title:  "AI: A History of Ideas and Failure"
+mathjax: true
+layout: post
+categories: media
+---
 
 The history of AI is a history of ideas and failure.
 
