@@ -24,10 +24,10 @@ Let's begin.
 
 ## Links
 
-- Paul Graham, "A Plan for Spam" (2002). The essay that launched statistical spam filtering: https://paulgraham.com/spam.html
+- Paul Graham, ["A Plan for Spam" (2002)](https://paulgraham.com/spam.html). The essay that launched statistical spam filtering. 
 
-- History of Information, "Woodrow Bledsoe Originates Automated Facial Recognition." The story of intelligence-funded facial recognition research: https://www.historyofinformation.com/detail.php?entryid=2495
+- History of Information, ["Woodrow Bledsoe Originates Automated Facial Recognition."](https://www.historyofinformation.com/detail.php?entryid=2495)The story of intelligence-funded facial recognition research.
 
-- IEEE Spectrum, "SRI's Pioneering Mobile Robot Shakey Honored as IEEE Milestone." Shakey's creators reunite and reflect on the first intelligent robot: https://spectrum.ieee.org/sri-shakey-robot-honored-as-ieee-milestone
+- IEEE Spectrum, ["SRI's Pioneering Mobile Robot Shakey Honored as IEEE Milestone."](https://spectrum.ieee.org/sri-shakey-robot-honored-as-ieee-milestone) Shakey's creators reunite and reflect on the first intelligent robot.
 
-- Quote Investigator, "As Soon As It Works, No One Calls It AI Anymore." Tracing the origins of the famous saying about AI's vanishing trick: https://quoteinvestigator.com/2024/06/20/not-ai/
+- Quote Investigator, ["As Soon As It Works, No One Calls It AI Anymore."](https://quoteinvestigator.com/2024/06/20/not-ai/) Tracing the origins of the famous saying about AI's vanishing trick. 
