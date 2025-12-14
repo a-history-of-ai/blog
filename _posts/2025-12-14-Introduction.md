@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-![Shakey](https://upload.wikimedia.org/wikipedia/commons/0/0c/SRI_Shakey_with_callouts.jpg)
+![Shakey](https://upload.wikimedia.org/wikipedia/commons/0/0c/SRI_Shakey_with_callouts.jpg = 200)
 
 The history of AI is a history of ideas and failure.
 
