@@ -4,7 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-This a blog about the hisotry of ai authored by Jamie Stark
+This blog is about AI history and the some of the ideas that shaped it. 
 
+I write for those building with AI and those evaluating investments. Engineers choosing approaches. Anyone trying to separate hype from history.
+Each post stands alone. Read them in order or pick what interests you.
 
-Jamie studied AI and Mathematics at the University of Edinburgh and holds a PhD from Heriot-Watt University.
+The past is full of unfinished business. Some of it might be useful.
+
