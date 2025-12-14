@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "A History of AI"
+author: "Jamie Stark"
+description: "A history of Artificial Intelligence Blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,6 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/jamiestark"}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
