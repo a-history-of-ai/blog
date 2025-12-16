@@ -8,7 +8,7 @@ categories: media
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/SRI_Shakey_with_callouts.jpg"
          alt="Shakey" 
          height="300">
-    <figcaption> Image: Wikimedia Commons</figcaption>
+    <figcaption> Shakey, <a href="https://commons.wikimedia.org/wiki/File:SRI_Shakey_with_callouts.jpg">SRI International</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</figcaption>
 </figure>
 
 The history of AI is a history of ideas and failure.
