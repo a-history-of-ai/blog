@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang }}">
 
+{% include analytics.html %}
 {% include head.html %}
-
+{% include head/custom.html %}
+  
 <header class="hover smooth">
   {% unless site.show_minimal and site.navigation and site.external %}
     <h1 {% if site.navigation and site.external %}class="full"{% endif %}><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
