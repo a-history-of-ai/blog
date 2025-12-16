@@ -3,7 +3,7 @@ author: "Jamie Stark"
 description: "A history of Artificial Intelligence Blog"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "<---!more--->"
+excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
