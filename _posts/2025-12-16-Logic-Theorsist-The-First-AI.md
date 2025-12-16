@@ -7,7 +7,7 @@ layout: post
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_simon_red_complete.jpg"
          alt="Herbert Simon" 
          height="300">
-    <figcaption> Image: Wikimedia Commons</figcaption>
+    <figcaption> <a href="https://commons.wikimedia.org/wiki/File:Herbert_simon_red_complete.jpg">Richard Rappaport</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons</figcaption>
 </figure>
 *"Machines will be capable, within twenty years, of doing any work a man can do."* — Herbert Simon, 1965
 
