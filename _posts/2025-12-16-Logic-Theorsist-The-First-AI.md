@@ -11,8 +11,6 @@ layout: post
 </figure>
 *"Machines will be capable, within twenty years, of doing any work a man can do."* — Herbert Simon, 1965
 
----
-
 January 1956. Herbert Simon's living room in Pittsburgh. His wife, three children, and several graduate students stand in a circle, each holding a 3x5 index card carrying instructions. Each person is a component of a program that doesn't yet exist on any machine. Simon gives a signal. They begin passing messages, following the rules on their cards, executing the program by hand. They are humans simulating a computer designed to simulate human thinking. Simon would later recall, "Here was nature imitating art imitating nature." If the program they are running works, it will prove that machines can think.
 
 
