@@ -15,7 +15,7 @@ layout: post
 
 January 1956. Herbert Simon's living room in Pittsburgh. His wife, three children, and several graduate students stand in a circle, each holding a 3x5 index card carrying instructions. Each person is a component of a program that doesn't yet exist on any machine. Simon gives a signal. They begin passing messages, following the rules on their cards, executing the program by hand. They are humans simulating a computer designed to simulate human thinking. Simon would later recall, "Here was nature imitating art imitating nature." If the program they are running works, it will prove that machines can think.
 
-<---!more--->
+
 
 Computers could calculate. The question was whether they could reason. Alan Turing had posed this in 1950, arguing that machines could think if they could imitate intelligent behaviour. But skepticism remained widespread. Ada Lovelace had written a century earlier that the Analytical Engine "has no pretensions to originate anything." Many still believed computers could only follow orders, not solve problems that required judgment. Simon and Newell set out to prove otherwise.
 
