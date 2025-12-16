@@ -3,9 +3,11 @@ title:  "Logic Theorist: The First AI"
 layout: post
 ---
 
-![Herbert Simon](https://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_simon_red_complete.jpg)
-~*Image: Wikimedia Commons*~
-
+<figure>
+    <img src="ttps://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_simon_red_complete.jpg"
+         alt="Herbert Simon">
+    <figcaption> Image: Wikimedia Commons</figcaption>
+</figure>
 *"Machines will be capable, within twenty years, of doing any work a man can do." — Herbert Simon, 1965*
 
 ---
