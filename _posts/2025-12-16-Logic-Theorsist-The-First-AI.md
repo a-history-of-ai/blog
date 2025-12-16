@@ -43,18 +43,13 @@ What Simon and Newell established in that living room became Artificial Intellig
 
 ## Further Reading
 
-- Lovelace, A. (1843). "Notes by the Translator" in Sketch of the Analytical Engine Invented by Charles Babbage.  
-  https://psychclassics.yorku.ca/Lovelace/lovelace.htm
+- Lovelace, A. (1843). ["Notes by the Translator" in Sketch of the Analytical Engine Invented by Charles Babbage.](https://psychclassics.yorku.ca/Lovelace/lovelace.htm)
 
-- Turing, A. M. (1950). "Computing Machinery and Intelligence." Mind, 59(236), 433-460.  
-  https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/t_article.pdf
+- Turing, A. M. (1950). ["Computing Machinery and Intelligence." Mind](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/t_article.pdf)
 
-- Newell, A., & Simon, H. A. (1956). "The Logic Theory Machine: A Complex Information Processing System." RAND Corporation.  
-  https://www.rand.org/pubs/papers/P868.html
+- Newell, A., & Simon, H. A. (1956). ["The Logic Theory Machine: A Complex Information Processing System."](https://www.rand.org/pubs/papers/P868.html)
 
-- McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1955). "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence."  
-  http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf
+- McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1955). ["A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence."](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf)
 
-- History of Information, "Newell, Simon & Shaw Develop the First Artificial Intelligence Program."  
-  https://www.historyofinformation.com/detail.php?id=742
+- History of Information, ["Newell, Simon & Shaw Develop the First Artificial Intelligence Program."](https://www.historyofinformation.com/detail.php?id=742)
 
