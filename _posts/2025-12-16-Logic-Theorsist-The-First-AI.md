@@ -5,7 +5,8 @@ layout: post
 
 <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_simon_red_complete.jpg"
-         alt="Herbert Simon">
+         alt="Herbert Simon" 
+         height="100">
     <figcaption> Image: Wikimedia Commons</figcaption>
 </figure>
 *"Machines will be capable, within twenty years, of doing any work a man can do." — Herbert Simon, 1965*
