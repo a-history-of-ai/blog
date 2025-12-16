@@ -4,14 +4,18 @@ mathjax: true
 layout: post
 categories: media
 ---
-![Shakey](https://upload.wikimedia.org/wikipedia/commons/0/0c/SRI_Shakey_with_callouts.jpg)
+<figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/SRI_Shakey_with_callouts.jpg"
+         alt="Shakey" 
+         height="300">
+    <figcaption> Image: Wikimedia Commons</figcaption>
+</figure>
 
 The history of AI is a history of ideas and failure.
 
 Ideas come from anywhere intelligence is evident. The field has borrowed from logic, neuroscience, evolutionary biology, cognitive psychology, even the behaviour of ants. Problem solving is how we recognise intelligence. So these ideas get tested by building systems to tackle problems that require intelligence. If a system handles a hard problem, it demonstrates something that looks like thinking. But once a system becomes useful, usefulness is what matters. Whether we still call it intelligent becomes irrelevant.
 
-
-
+<---!more--->
 
 Failure is inevitable. There is an old saying among AI researchers: as soon as it works, no one calls it AI anymore. This reveals something about how we define intelligence. We define it by what machines cannot yet do well. The moment they do it well, we reclassify. It becomes just software.
 
