@@ -4,7 +4,7 @@ layout: post
 ---
 
 <figure>
-    <img src="ttps://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_simon_red_complete.jpg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_simon_red_complete.jpg"
          alt="Herbert Simon">
     <figcaption> Image: Wikimedia Commons</figcaption>
 </figure>
