@@ -4,14 +4,18 @@ layout: post
 ---
 
 <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mark_I_Perceptron.jpg/800px-Mark_I_Perceptron.jpg"
-         alt="Mark I Perceptron" 
+    <img src="https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2019-09/0925_rosenblatt_main.jpg?itok=SE0aS7ds"
+         alt="Rosenblatt with his Mark I Perceptron" 
          height="300">
-    <figcaption style="font-size: 10px;"> Mark I Perceptron at the Smithsonian. <a href="https://commons.wikimedia.org/wiki/File:Mark_I_Perceptron.jpg">Wikimedia Commons</a>, Public Domain</figcaption>
+    <figcaption style="font-size: 10px;"> Rosenblatt with his Mark I Perceptron. Cornell University </figcaption>
 </figure>
+
 *"The first machine which is capable of having an original idea."* — Frank Rosenblatt, 1958
 
 The history of AI is a history of ideas and failure. This is true from the very beginning. Where Simon and Newell demonstrated intelligence by solving problems, others believed learning was the key. An intelligent machine should adapt from experience, improve with practice, and learn from mistakes.
+
+
+
 
 If you want to study learning, an obvious place to start is the brain. Our brains are made up of billions of neurons, cells that transmit electrical signals. In 1943, Warren McCulloch and Walter Pitts showed mathematically how networks of artificial neurons could compute logical functions. In 1949, psychologist Donald Hebb proposed how learning might work: connections between neurons that fire together grow stronger. Others contributed ideas about adaptation and probability. But this was all theory.
 
