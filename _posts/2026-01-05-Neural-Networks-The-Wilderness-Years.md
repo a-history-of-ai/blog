@@ -4,7 +4,7 @@ layout: post
 ---
 
 <figure>
-    <img src="/blog/assets/images/hinton.png"
+    <img src="https://a-history-of-ai.github.io/blog/assets/images/hinton.png"
          alt="Geoffrey Hinton" 
          height="300">
     <figcaption style="font-size: 10px;">Image: Canadian Institute for Advanced Research / Associated Press</figcaption>
