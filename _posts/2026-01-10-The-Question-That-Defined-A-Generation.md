@@ -16,6 +16,9 @@ layout: post
 
 Arguably no one has had such a long lasting impact on AI as John McCarthy. He shaped the field in ways few others did and his contributions cast a long shadow for decades. He gave the field its name, posed central questions and introduced the programming language that made exploring them possible. His key insight was to consider how knowledge should be represented.
 
+
+
+
 McCarthy was there from the very start. He was one of the organizers of the Dartmouth conference in the summer of 1956 that gave the field its name. Naming mattered. It declared that machine intelligence was a legitimate research program, not science fiction.
 
 In 1958, McCarthy described the Advice Taker. You would tell this machine facts using formal logic, and it would reason about them. Ask how to get from your house to the airport, and it would figure out cars, roads, and what makes something drivable. The Advice Taker was never built, because the technology wasn't ready. Computers in 1958 had tiny memories and no interactive interfaces.
