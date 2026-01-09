@@ -4,10 +4,10 @@ layout: post
 ---
 
 <figure>
-    <img src="/assets/images/McCarthy.png"
+    <img src="https://a-history-of-ai.github.io/blog/assets/images/McCarthy.png"
          alt="John McCarthy" 
          height="300">
-    <figcaption style="font-size: 10px;">Image: [SOURCE TK]</figcaption>
+    <figcaption style="font-size: 10px;">John McCarthy</figcaption>
 </figure>
 
 *"The central problem of artificial intelligence involves how to express the knowledge about the world that is necessary for intelligent behavior."* — John McCarthy
