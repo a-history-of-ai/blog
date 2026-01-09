@@ -4,7 +4,7 @@ layout: post
 ---
 
 <figure>
-    <img src="https://a-history-of-ai.github.io/blog/assets/images/McCarthy.png"
+    <img src="https://a-history-of-ai.github.io/blog/assets/images/McCarthy.jpg"
          alt="John McCarthy" 
          height="300">
     <figcaption style="font-size: 10px;">John McCarthy</figcaption>
