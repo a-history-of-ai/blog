@@ -44,6 +44,6 @@ The challenge of intelligent search remains. Out of the box, modern reasoning mo
 
 - Newell, A. (1981). ["The Heuristic of George Polya and Its Relation to Artificial Intelligence."](https://stacks.stanford.edu/file/druid:gj292yv5713/gj292yv5713.pdf)
 
-- Newell, A., & Simon, H. A. (1961). ["GPS: A Program that Simulates Human Thought." In Lernende Automaten, pp. 109-124.](https://shelf2.library.cmu.edu/Tech/53954367.pdf)
+- Newell, A., & Simon, H. A. (1961). ["GPS: A Program that Simulates Human Thought." In Lernende Automaten, pp. 109-124.]([https://shelf2.library.cmu.edu/Tech/53954367.pdf](https://iiif.library.cmu.edu/file/Simon_box00064_fld04907_bdl0001_doc0001/Simon_box00064_fld04907_bdl0001_doc0001.pdf))
 
 - Zhang, A. L., Kraska, T., & Khattab, O. (2025). ["Recursive Language Models."](https://arxiv.org/pdf/2512.24601)
