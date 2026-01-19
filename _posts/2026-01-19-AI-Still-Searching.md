@@ -4,7 +4,7 @@ layout: post
 ---
 
 <figure>
-    <img src="/assets/images/tower-of-hanoi.png"
+    <img src="[/assets/images/tower-of-hanoi](https://a-history-of-ai.github.io/blog/assets/images/hanoig.jpg"
          alt="The Towers of Hanoi illustrated in La Nature" 
          height="300">
     <figcaption style="font-size: 10px;">The Towers of Hanoi illustrated in La Nature</figcaption>
@@ -17,6 +17,9 @@ layout: post
 Problem solving involves considering different options, breaking things down, searching for a solution. Playing chess you explore options, consider possible moves, what your opponent may do in reaction, weighing up options along the way. It quickly becomes apparent that you can't look at all options, so you focus attention and search intelligently. You rely on patterns and tactics picked up along the way.
 
 Alongside knowledge representation, replicating intelligent search became the focus of early AI efforts. When we left Simon and Newell after Logic Theorist, they had recognized the core problem: you cannot search everything, so you must search intelligently. Inspired by George Polya's work on problem solving, they built the General Problem Solver, demonstrating two important innovations.
+
+
+
 
 The first was means-ends analysis, a framework for breaking problems down:
 
