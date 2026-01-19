@@ -46,4 +46,4 @@ The challenge of intelligent search remains. Out of the box, modern reasoning mo
 
 - Newell, A., & Simon, H. A. (1961). ["GPS: A Program that Simulates Human Thought." In Lernende Automaten, pp. 109-124.](https://shelf2.library.cmu.edu/Tech/53954367.pdf)
 
-- Zhang, A. L., Kraska, T., & Khattab, O. (2025). ["Recursive Language Models."](https://arxiv.org/abs/2512.24601)
+- Zhang, A. L., Kraska, T., & Khattab, O. (2025). ["Recursive Language Models."](https://arxiv.org/pdf/2512.24601)
