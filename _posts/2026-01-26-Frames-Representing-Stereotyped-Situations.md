@@ -1,0 +1,41 @@
+---
+title:  "Frames: Representing Stereotyped Situations"
+layout: post
+---
+
+<figure>
+    <img src="/assets/images/NullStern.jpg"
+         alt="The Null Stern hotel" 
+         height="300">
+    <figcaption style="font-size: 10px;">The Null Stern hotel</figcaption>
+</figure>
+
+*"When one encounters a new situation one selects from memory a structure called a Frame. This is a remembered framework to be adapted to fit reality by changing details as necessary."* - Marvin Minsky, 1974
+
+---
+
+Building enterprise AI means teaching an LLM the messy reality of your business. You need to explain standard contracts but also the edge cases. You need to describe typical customers and the exceptions that break the pattern. You need to capture default processes and how they vary by region. In 1974, Marvin Minsky wrote an essay about exactly this problem. His ideas shaped knowledge representation and drove the expert systems boom of the 1980s.
+
+Minsky argued that minds work from templates. You walk into a room and before you consciously process what you see, you already expect walls, ceiling, floor, probably a door, maybe windows. When something violates those expectations, you notice immediately. A room with no ceiling feels wrong because you were working from a remembered framework.
+
+Minsky proposed that this is how we handle new situations. You don't build understanding from scratch but select a remembered framework and adapt it. His insight was that knowledge about stereotyped situations should be represented as structured templates he called frames. A frame has two kinds of knowledge: the top levels are fixed and represent things always true about the situation, while the lower levels have slots that must be filled by specific instances.
+
+Consider how this works in practice. A sales deal frame captures what is always true: deals have customers, have values, and require approval. But it also has slots for details that vary: deal size, discount justification, escalation path, competitive context. Each slot can have default values, so deals assume standard pricing unless you specify otherwise. Slots can have constraints that define valid values. The deal size slot expects small, medium, large, or strategic.
+
+Frames addressed fundamental limitations of semantic networks, the prevailing approach at the time. Semantic networks represented knowledge as graphs where nodes were concepts and edges were relationships. Simple and visual, but they had problems frames could solve:
+
+- **Defaults and exceptions.** Semantic networks couldn't handle typical cases with exceptions. A bird can fly, Tweety is a bird, so Tweety can fly works until you encounter a penguin. Frames solved this through inheritance, where birds fly by default but penguins override this.
+
+- **Context sensitivity.** Semantic networks struggled with words that change meaning based on context. The meaning of "bank" depends on whether you are discussing rivers or money. Frames handled this by activating different templates depending on context.
+
+- **Typical values.** Semantic networks represented what was explicitly stated and nothing more. Frames provided slots with default values that could be filled or overridden. This allowed reasoning about incomplete information without requiring every detail to be specified.
+
+Frames enabled the expert systems boom of the 1980s. MYCIN diagnosed infections using frames for diseases and symptoms. Software engineers arrived at similar insights with object-oriented programming. The pattern Minsky proposed for knowledge representation became the pattern for organizing all code.
+
+If you are building enterprise AI today, you are likely making use of Minsky's ideas. When you write a JSON schema with required fields and constraints, you are building a frame. If you are defining stereotyped situations in your business and specifying how to handle their exceptions, Minsky's essay is well worth a read.
+
+---
+
+## Further Reading
+
+- Minsky, M. (1974). ["A Framework for Representing Knowledge." MIT AI Laboratory Memo 306.](http://web.media.mit.edu/~minsky/papers/Frames/frames.html)
