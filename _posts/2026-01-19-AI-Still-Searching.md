@@ -6,7 +6,7 @@ layout: post
 <figure>
     <img src="https://a-history-of-ai.github.io/blog/assets/images/hanoig.jpg"
          alt="The Towers of Hanoi illustrated in La Nature" 
-         height="300">
+       >
     <figcaption style="font-size: 10px;">The Towers of Hanoi illustrated in La Nature</figcaption>
 </figure>
 
