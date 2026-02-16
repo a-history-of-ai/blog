@@ -6,7 +6,7 @@ layout: post
 <figure>
     <img src="https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2019-09/0925_rosenblatt_main.jpg?itok=SE0aS7ds"
          alt="Rosenblatt with his Mark I Perceptron" 
-         height="300">
+    >
     <figcaption style="font-size: 10px;"> Rosenblatt with his Mark I Perceptron. Cornell University </figcaption>
 </figure>
 
