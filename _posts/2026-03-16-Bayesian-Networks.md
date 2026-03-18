@@ -4,10 +4,10 @@ layout: post
 ---
 
 <figure>
-    <img src="/assets/images/bayesian-network-belief-propogation.png"
+    <img src="https://a-history-of-ai.github.io/blog/assets/images/bayesian-network-belief-propogation.png"
          alt="A directed acyclic graph representing a Bayesian network" 
          height="300">
-    <figcaption style="font-size: 10px;">Image: Pearl, J. (1982). Reverend Bayes on Inference Engines: A Distributed Hierarchical Approach. AAAI-82 Proceedings.</figcaption>
+    <figcaption style="font-size: 10px;">Belief Propagation</figcaption>
 </figure>
 
 *"Probability theory is nothing but common sense reduced to calculation."* — Pierre-Simon Laplace, 1814
