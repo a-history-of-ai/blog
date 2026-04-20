@@ -18,6 +18,9 @@ layout: post
 
 He spent years reading the field's approaches to uncertain reasoning — fuzzy logic, belief functions, certainty factors — and became convinced it was avoiding something it already had the mathematics for. Bayes' theorem had been available since 1763. It told you exactly how to update a belief when evidence arrived. Why was nobody using it?
 
+
+
+
 The answer he arrived at was Bayesian networks: a graph where each node is a variable and each edge represents how one variable influences another. A disease node connects to symptom nodes, each connection carrying a probability table derived from data. When evidence arrives, it propagates through the graph and the mathematics tells you the most probable explanation.
 
 The idea came from cognitive science. He had been reading a 1976 paper by David Rumelhart on how children read, which showed how neurons at multiple levels pass messages back and forth to resolve ambiguity, for example whether a smudged word is "FAR" or "CAR" or "FAT." Pearl realised these messages had to be conditional probabilities. Bayesian reasoning was essential for passing them up and down the network and combining them correctly.
