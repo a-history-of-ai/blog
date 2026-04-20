@@ -14,7 +14,7 @@ layout: post
 
 ---
 
-In 1988, NASA held a workshop on how to explore other planets. The expected answer was one large rover, carefully engineered, remotely controlled from Earth. Rodney Brooks proposed the opposite: swarms of cheap autonomous robots, mass-produced, expendable, no human in the loop. To prove the idea could work, he built a walking robot in twelve weeks with two people and model airplane servos for legs. It now lives in the Smithsonian.
+In 1988, NASA held a workshop on how to explore other planets. The expected answer was one large rover, carefully engineered, remotely controlled from Earth. Rodney Brooks proposed the opposite: swarms of cheap autonomous robots, mass-produced, expendable, no human in the loop. To prove the idea could work, he built a walking robot in twelve weeks with two people and model airplane servos for legs. It now lives in the Smithsonian National Air and Space Museum.
 
 
 
