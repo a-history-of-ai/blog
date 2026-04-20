@@ -7,7 +7,7 @@ layout: post
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Roomba_time-lapse.jpg"
          alt="Roomba time-lapse showing path traced across a living room floor" 
          height="300">
-    <figcaption style="font-size: 10px;">Image: Chris Bartle, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
+    <figcaption style="font-size: 10px;">The path taken by a Roomba robotic vacuum cleaner as it cleans a room. Chris Bartle, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
 </figure>
 
 *"The world is its own best model. It is always exactly up to date. It always contains every detail there is to be known."* — Rodney Brooks
