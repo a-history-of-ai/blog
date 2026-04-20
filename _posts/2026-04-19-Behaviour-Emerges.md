@@ -16,6 +16,9 @@ layout: post
 
 In 1988, NASA held a workshop on how to explore other planets. The expected answer was one large rover, carefully engineered, remotely controlled from Earth. Rodney Brooks proposed the opposite: swarms of cheap autonomous robots, mass-produced, expendable, no human in the loop. To prove the idea could work, he built a walking robot in twelve weeks with two people and model airplane servos for legs. It now lives in the Smithsonian.
 
+
+
+
 The robot was called Genghis. It weighed under a kilogram and had no central brain. Each leg had its own chip responding directly to the environment through sensors rather than to any central plan. Walking emerged from their interaction even though Brooks had never programmed it. He had designed conditions and the behaviour arose on its own.
 
 Brooks went further and built Herbert, a robot that navigated office corridors, searched for and collected empty cans, with no internal messaging between modules. Each one just acted on what its sensors read directly from the environment. The roots of the idea went back to a trip to Thailand years earlier. Watching insects navigate complex terrain with almost no brain at all, Brooks realised the world was their model.
