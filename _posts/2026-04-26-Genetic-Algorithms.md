@@ -18,6 +18,9 @@ In the mid-1950s, John Holland was first introduced to the mathematics of natura
 
 What Holland saw was intelligence that searched rather than reasoned. At the time, you wrote programs by telling the machine what to do, step by step. Holland proposed the opposite: specify a test for what a good answer looks like, then let the program evolve toward it.
 
+
+
+
 Like biology, the mechanism is brutal. Encode thousands of candidate solutions as bit strings, like chromosomes, and score each one against a fitness function. Most fail. Pair the survivors, swap segments to create offspring, let mutations creep in and run for thousands of generations. The surviving population finds solutions you could not have specified in advance. Evolution doesn't know what it's looking for, and on the hardest problems, neither do we.
 
 Holland published the framework in 1975 in a book called *Adaptation in Natural and Artificial Systems*. By the late 1980s genetic algorithms were one of the active areas of AI, and through the 1990s their popularity grew rapidly. Engineers applied them to problems as diverse as designing turbine blades, routing delivery vehicles, timing traffic lights, and pricing derivatives. Sometimes the result was startling. NASA needed a new spacecraft antenna and handed the problem to a genetic algorithm. The final shape looked unlike anything an engineer would have drawn, and it outperformed every human design.
