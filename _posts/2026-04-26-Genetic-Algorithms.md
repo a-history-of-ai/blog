@@ -6,7 +6,7 @@ layout: post
 <figure>
     <img src="https://a-history-of-ai.github.io/blog/assets/images/NASA-antennas.png"
          alt="NASA antennas evolved using genetic algorithms" 
-         height="300">
+         >
     <figcaption style="font-size: 10px;">Development of NASA antennas through evolutionary algorithms. (Lohn et al., 2008)</figcaption>
 </figure>
 
