@@ -17,8 +17,6 @@ In 1992, a researcher at IBM gave a computer program no strategy, no expertise a
 
 
 
-&nbsp;
-
 The story of how machines learned to win at games is, in miniature, the story of AI itself. To win at chess you have to be intelligent. There is no shortcut. You have to plan, evaluate and outthink a competitor trying to beat you. Games have clear rules, a well-defined environment and a goal that needs no interpretation. Unlike the real world they are controlled environments to create and study intelligence, much like a laboratory.
 
 The challenge is that even simple rules produce a staggering number of possible games. Chess has more possible games than atoms in the observable universe. Go, with even simpler rules, increases that complexity beyond comprehension. No computer, however fast, can search all of it. Brute force was never going to be enough.
