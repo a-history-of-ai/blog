@@ -18,7 +18,6 @@ In 1972, IBM gave Fred Jelinek's speech recognition group two linguists to help 
 
 
 
-&nbsp;
 Jelinek reframed the problem entirely. Inspired by information theory, he asked a precise question about spoken language: given a sequence of sounds, which words were most likely to have produced them? The same logic, his colleagues realised, applied to text. The tool was the n-gram: a probability table built from counting which words appeared together. Given enough data, the patterns were reliable, and each word left a statistical trace pointing toward what came next. It was the most undignified possible way to process language, and it outperformed everything built with grammar.
 
 Like many ideas in the history of AI, the statistical approach didn't fully take off until the conditions were right. It was data hungry. "There is no data like more data," as Robert Mercer, one of Jelinek's colleagues at IBM, put it, and in 2001 researchers at Microsoft confirmed exactly that: a simple model trained on a billion words outperformed a clever one trained on a million. The internet solved the data problem, producing hundreds of billions of examples where researchers had worked with millions. Fortunately, the computers needed to process all of it kept getting faster and cheaper.
